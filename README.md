@@ -1,2 +1,2 @@
-# sem4-cprg-phase2
+# sem4-cprg-project2-auth
 Phase 2 of Web Security Fundamentals
